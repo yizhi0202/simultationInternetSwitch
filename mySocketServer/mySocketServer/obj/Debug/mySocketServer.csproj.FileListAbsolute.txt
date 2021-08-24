@@ -1,0 +1,13 @@
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\bin\Debug\mySocketServer.exe.config
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\bin\Debug\mySocketServer.exe
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\bin\Debug\mySocketServer.pdb
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\bin\Debug\SunnyUI.Common.dll
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\bin\Debug\SunnyUI.dll
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\obj\Debug\mySocketServer.Properties.Resources.resources
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\obj\Debug\mySocketServer.csproj.GenerateResource.cache
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\obj\Debug\mySocketServer.csproj.CoreCompileInputs.cache
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\obj\Debug\mySocketServer.csproj.CopyComplete
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\obj\Debug\mySocketServer.exe
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\obj\Debug\mySocketServer.pdb
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\obj\Debug\mySocketServer.mySocketServer.resources
+D:\Programming\ComputerInternet\SimulationSwitch\mySocketServer\mySocketServer\obj\Debug\mySocketServer.csprojAssemblyReference.cache
